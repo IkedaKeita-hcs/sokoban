@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f973dd3b82344247834f6b429073b72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _stageFile: {fileID: 4900000, guid: 1459a25f8a8b3da49872e0fa25a863fa, type: 3}
+  - _groundSprite: {instanceID: 0}
+  - _targetSprite: {instanceID: 0}
+  - _playerSprite: {instanceID: 0}
+  - _blockSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
