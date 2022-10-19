@@ -162,6 +162,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f973dd3b82344247834f6b429073b72, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _stageFile: {fileID: 4900000, guid: 1459a25f8a8b3da49872e0fa25a863fa, type: 3}
+  _tileSize: 0.64
+  _groundSprite: {fileID: 21300000, guid: dfa1bde9f74e22b458add1915e6e24a7, type: 3}
+  _targetSprite: {fileID: 21300000, guid: 60e7d72de0293a841b5abc9ece223745, type: 3}
+  _playerSprite: {fileID: 21300000, guid: 73933bf3720303c4a9c36b0a8337760a, type: 3}
+  _blockSprite: {fileID: 21300000, guid: a5b379265558eae4bacf2ccd297ac114, type: 3}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -189,7 +195,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 2
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
